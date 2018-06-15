@@ -1,0 +1,7 @@
+1. 'val' defines a constant, while 'var' defines a variable, which are changeable.
+2. In scala, there is no distinct between primary type and class type. 
+   Byte, Int, Double,Float,Long, Short, Char and Boolean are classes. --> we can invoke method on number. e.g. 1.toString()
+3. Operators:
+    scala does not has ++ or -- operators. It uses += or -+
+    In scala, operators are methods.
+4. 
